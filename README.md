@@ -1,4 +1,4 @@
-# Linguagens-de-Computa-o
+# Linguagens-de-Computacao
 Trabalho 1 - Andrea Konzen
 Arthur Zanella, Arthur Viegas e Flávia 
 Descrição a seguir:
